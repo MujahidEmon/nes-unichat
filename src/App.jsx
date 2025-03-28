@@ -3,7 +3,7 @@ import './App.css'
 function App() {
   return (
     <>
-      <h1 className='text-center'>Vite + React</h1>
+      <h1 className='text-center font-main'>Vite + React</h1>
     </>
   )
 }
