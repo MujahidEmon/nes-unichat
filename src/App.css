@@ -1,7 +1,0 @@
-@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
-@import "tailwindcss";
-@plugin "daisyui";
-
-@theme{
-  --font-main: "Fredoka", "sans-serif";
-}
